@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\servicios\\generalservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\servicios\\generalservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\controllers\\tarifacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\controllers\\tarifacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\models\\dto\\tarifadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\models\\dto\\tarifadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\models\\tarifas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\models\\tarifas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\models\\dto\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\models\\dto\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|c:\\users\\aorrala\\desktop\\projectos\\pruebafullbg\\webapi_alexorrala\\webapi_alexorrala\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FAF96-24AB-4036-84FD-41377E542052}|WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala.csproj|solutionrelative:webapi_alexorrala\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnvioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\DTO\\EnvioDTO.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Models\\DTO\\EnvioDTO.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\DTO\\EnvioDTO.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Models\\DTO\\EnvioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:29:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarifaController.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Controllers\\TarifaController.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Controllers\\TarifaController.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Controllers\\TarifaController.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Controllers\\TarifaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:30:47.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvioController.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Controllers\\EnvioController.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Controllers\\EnvioController.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Controllers\\EnvioController.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Controllers\\EnvioController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:13:22.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralServicios.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Servicios\\GeneralServicios.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Servicios\\GeneralServicios.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Servicios\\GeneralServicios.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Servicios\\GeneralServicios.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:17:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Usuario.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:37:13.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\appsettings.json",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\appsettings.json",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\appsettings.json",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T20:54:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:20:23.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Program.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Program.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Program.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:47:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarifas.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Tarifas.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Models\\Tarifas.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Tarifas.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Models\\Tarifas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:31:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarifaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\DTO\\TarifaDTO.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Models\\DTO\\TarifaDTO.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\DTO\\TarifaDTO.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Models\\DTO\\TarifaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:31:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Viaje.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Models\\Viaje.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Viaje.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Models\\Viaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:35:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Envio.cs",
+              "RelativeDocumentMoniker": "WEBAPI_AlexOrrala\\Models\\Envio.cs",
+              "ToolTip": "C:\\Users\\aorrala\\Desktop\\Projectos\\PruebaFullBG\\WEBAPI_AlexOrrala\\WEBAPI_AlexOrrala\\Models\\Envio.cs",
+              "RelativeToolTip": "WEBAPI_AlexOrrala\\Models\\Envio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:27:01.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

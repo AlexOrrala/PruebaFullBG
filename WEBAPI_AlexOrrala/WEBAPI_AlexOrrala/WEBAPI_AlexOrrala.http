@@ -1,0 +1,6 @@
+@WEBAPI_AlexOrrala_HostAddress = http://localhost:5244
+
+GET {{WEBAPI_AlexOrrala_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
